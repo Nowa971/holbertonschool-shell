@@ -1,2 +1,2 @@
 #!/bin/bash
-cp nom_du_fichier /tmp/
+sudo chown betty hello
